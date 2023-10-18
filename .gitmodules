@@ -1,3 +1,6 @@
 [submodule "uniswap-teardown/lib/forge-std"]
 	path = uniswap-teardown/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "clamm/lib/forge-std"]
+	path = clamm/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
